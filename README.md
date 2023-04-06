@@ -14,3 +14,8 @@ found that Planet-F had a mass-period relation consistent to that of Rocky Plane
 mass-period relations consistent of super-Earth-like planets and Planet-S consistent of warm-Neptunes. The
 exoplanet habitability was also analysed for detected exoplanets. It was found that none of the Kepler-4
 exoplanets would be suitable candidates of habitability and the accuracy of analysis was discussed.
+
+#### Information
+Written Report: Coursework_B_Written_Report.pdf
+Python Project: Coursework_B_25406.ipynb, mytools.py, mytools2.py
+Additional files required to run project: nasa.csv image2.jpg image0.jpg
