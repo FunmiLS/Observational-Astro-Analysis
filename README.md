@@ -16,6 +16,6 @@ exoplanet habitability was also analysed for detected exoplanets. It was found t
 exoplanets would be suitable candidates of habitability and the accuracy of analysis was discussed.
 
 #### Information
-<b Written Report:b/> Coursework_B_Written_Report.pdf <br>
-<b Python Project:b/> Coursework_B_25406.ipynb, mytools.py, mytools2.py <br>
-<b Additional files required to run project: b/> nasa.csv image2.jpg image0.jpg 
+<b> Written Report: </b> Coursework_B_Written_Report.pdf <br>
+<b> Python Project: </b> Coursework_B_25406.ipynb, mytools.py, mytools2.py <br>
+<b> Additional files required to run project: </b> nasa.csv image2.jpg image0.jpg 
