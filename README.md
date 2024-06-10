@@ -9,11 +9,11 @@ transit curves. Lightcurve analysis discovered the presence of 4 exoplanets, wit
 (13.1754 ±0.0002) days, (21.7760 ±0.0004) days, (31.784 ±0.0016) days and (41.023 ±0.0021) days. Planetary
 radius was also estimated and found to be (2.92 ± 0.14) R🜨, (5.11 ± 0.22) R🜨, (3.83 ± 0.17) R🜨, (4.05 ± 0.18) R🜨,
 for planets F, E, L and S, respectively. When compared to the entire exoplanet population, it was found that the
-detected exoplanets had characteristics consistent to those of the already discovered exoplanets. It was also
+detected exoplanets had characteristics consistent to those already discovered. It was also
 found that Planet-F had a mass-period relation consistent to that of Rocky Planets. Planet-E and Planet-L had
-mass-period relations consistent of super-Earth-like planets and Planet-S consistent of warm-Neptunes. The
-exoplanet habitability was also analysed for detected exoplanets. It was found that none of the Kepler-4
-exoplanets would be suitable candidates of habitability and the accuracy of analysis was discussed.
+mass-period relations consistent of super-Earth-like planets and Planet-S consistent of warm-Neptunes. The 
+habitability was also analysed for detected exoplanets. It was found that none of the Kepler-4
+exoplanets would be suitable candidates and the accuracy of analysis was discussed.
 
 ### Information
 <b> Written Report: </b> Coursework_B_Written_Report.pdf <br>
