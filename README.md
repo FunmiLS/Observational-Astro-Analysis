@@ -16,6 +16,6 @@ habitability was also analysed for detected exoplanets. It was found that none o
 exoplanets would be suitable candidates and the accuracy of analysis was discussed.
 
 ### Information
-<b> Written Report: </b> Report.pdf <br>
+<b> Written Report: </b> Exoplanet_Report.pdf <br>
 <b> Python Project: </b> Coursework_B_25406.ipynb, mytools.py, mytools2.py <br>
 <b> Additional files required to run project: </b> nasa.csv image2.jpg image0.jpg 
