@@ -46,7 +46,7 @@ The main files within this repository are structured as follows:
 
 ---
 
-## equirements and Installation
+## Requirements and Installation
 
 This project is written primarily in Python and utilizes standard scientific libraries.
 
